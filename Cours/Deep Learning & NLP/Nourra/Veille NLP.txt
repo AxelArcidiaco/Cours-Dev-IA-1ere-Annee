@@ -1,0 +1,96 @@
+Veille NLP
+
+
+Définition:
+	- NLP : Le traitement automatique du langage naturel (NLP) est une branche de l'informatique qui se concentre sur l'interaction entre l'ordinateur et le langage humain naturel. Le NLP vise à permettre aux ordinateurs de comprendre, d'interpréter et de générer du langage naturel, ainsi qu'à faciliter la communication entre les humains et les machines. Il utilise des techniques d'analyse syntaxique, sémantique et pragmatique pour traiter le langage humain et est utilisé dans de nombreuses applications telles que la traduction automatique, l'analyse des sentiments, la reconnaissance vocale, les chatbots, etc.
+
+	- Analyse Lexicale L'analyse lexicale est une étape fondamentale du traitement automatique du langage naturel (NLP) qui consiste à diviser un texte en une séquence de "jetons" ou de "mots" individuels appelés "tokens" en anglais. Cette étape permet de transformer un texte brut en une série de symboles ou de mots qui peuvent ensuite être analysés plus en profondeur par d'autres étapes de traitement du langage naturel, telles que l'analyse syntaxique ou sémantique. En bref, l'analyse lexicale est une méthode pour identifier et extraire les unités lexicales d'un texte afin de faciliter leur analyse ultérieure par des algorithmes de traitement du langage naturel.
+	
+	- Analyse Syntaxique : L'analyse syntaxique est une étape importante du traitement automatique du langage naturel (NLP) qui consiste à analyser la structure grammaticale d'une phrase pour en comprendre le sens. Elle permet de déterminer la manière dont les mots sont organisés dans une phrase et comment ils interagissent les uns avec les autres. L'analyse syntaxique permet également d'identifier les parties de la phrase telles que le sujet, le verbe et l'objet, ainsi que les relations entre ces parties. En bref, l'analyse syntaxique est une méthode pour comprendre la grammaire d'une phrase afin de faciliter sa compréhension et son traitement par des algorithmes de traitement du langage naturel.
+	
+	- Analyse Sémantique : L'analyse sémantique est une étape importante du traitement automatique du langage naturel (NLP) qui consiste à comprendre le sens des mots et des phrases dans un contexte donné. Elle permet de déterminer la signification des mots en se basant sur leur utilisation et leur contexte d'utilisation dans une phrase ou dans un texte plus large. L'analyse sémantique utilise des techniques telles que la désambiguïsation lexicale pour identifier le sens précis d'un mot, ainsi que la reconnaissance d'entités nommées pour identifier des noms propres, des lieux et d'autres informations importantes. En bref, l'analyse sémantique est une méthode pour comprendre la signification des mots et des phrases dans un contexte donné afin de faciliter leur traitement par des algorithmes de traitement du langage naturel.
+	
+	- Analyse Logique : L'analyse logique est une étape importante du traitement automatique du langage naturel (NLP) qui consiste à identifier les relations logiques entre les différentes parties d'une phrase ou d'un texte. Elle permet de déterminer la manière dont les mots et les phrases sont connectés les uns aux autres, en se basant sur les règles de la grammaire et de la logique. L'analyse logique utilise des techniques telles que l'identification des propositions principales et des propositions subordonnées, ainsi que la reconnaissance des connecteurs logiques tels que "et", "ou" et "mais". En bref, l'analyse logique est une méthode pour comprendre la structure logique d'une phrase ou d'un texte afin de faciliter sa compréhension et son traitement par des algorithmes de traitement du langage naturel.
+	
+
+Historique :
+Le traitement automatique du langage naturel (NLP) est une discipline relativement récente qui a connu des progrès considérables ces dernières décennies. Cependant, les premiers travaux sur le traitement automatique du langage remontent aux années 1950, lorsque des chercheurs ont commencé à explorer la possibilité d'utiliser des ordinateurs pour comprendre et générer du langage naturel.
+
+Au cours des années 1960 et 1970, les chercheurs ont développé des algorithmes pour analyser la syntaxe et la sémantique des phrases. Cependant, ces algorithmes étaient souvent très complexes et nécessitaient des ressources informatiques considérables, ce qui limitait leur utilisation pratique.
+
+Dans les années 1980 et 1990, l'arrivée de l'apprentissage automatique et des réseaux de neurones a permis de développer des modèles plus sophistiqués pour le traitement du langage naturel, tels que les modèles de langue statistiques et les réseaux de neurones récurrents.
+
+Au cours des dernières décennies, l'avènement de l'intelligence artificielle et du deep learning a permis d'énormes progrès dans le domaine du traitement automatique du langage naturel. Des modèles de traitement du langage naturel tels que BERT, GPT-3 et Transformer ont été développés, permettant des performances sans précédent dans des tâches telles que la traduction automatique, la génération de texte et la compréhension de la langue naturelle.
+
+Aujourd'hui, le traitement automatique du langage naturel est de plus en plus utilisé dans de nombreux domaines, notamment la traduction, l'analyse des sentiments, la reconnaissance vocale et la réponse aux requêtes en langage naturel.
+
+
+Applications :
+	- Les assistants vocaux : Les assistants vocaux tels que Siri, Alexa et Google Assistant utilisent le NLP pour comprendre les commandes vocales des utilisateurs et leur fournir des réponses en langage naturel.
+
+	- La traduction automatique : Les outils de traduction automatique tels que Google Translate utilisent le NLP pour comprendre le texte dans une langue et le traduire automatiquement dans une autre langue.
+
+	- L'analyse des sentiments : Les entreprises utilisent des outils de NLP pour analyser les sentiments des clients en ligne, à partir des commentaires et des avis publiés sur les réseaux sociaux ou sur des sites web.
+
+	- La reconnaissance vocale : Les systèmes de reconnaissance vocale utilisent le NLP pour comprendre les paroles prononcées par un utilisateur et les transcrire en texte.
+
+	-  Les chatbots : Les chatbots utilisent le NLP pour comprendre les requêtes en langage naturel des utilisateurs et leur fournir des réponses en temps réel.
+
+	- L'analyse de texte : Les outils d'analyse de texte utilisent le NLP pour identifier les entités nommées, les relations entre les mots et les sujets abordés dans un texte.
+
+	- La classification de texte : Les algorithmes de classification de texte utilisent le NLP pour classifier automatiquement les textes en fonction de leur sujet ou de leur contenu.
+
+	- La génération de texte : Les systèmes de génération de texte utilisent le NLP pour créer des textes à partir de données d'entrée telles que des modèles de langage ou des exemples de texte existants.
+
+	- La recherche d'informations : Les moteurs de recherche utilisent le NLP pour comprendre les requêtes en langage naturel des utilisateurs et fournir des résultats pertinents.
+
+	- Les systèmes de recommandation : Les systèmes de recommandation utilisent le NLP pour comprendre les préférences des utilisateurs et leur recommander des produits ou des services adaptés à leurs besoins.
+
+
+Bibliothèques & Librairie Python:
+	- NLTK (Natural Language Toolkit) : C'est l'une des bibliothèques NLP les plus populaires en Python. Elle propose une gamme de modules pour le prétraitement de texte, la tokenisation, la lemmatisation, la segmentation, l'étiquetage grammatical, l'analyse syntaxique et la classification de texte.
+
+	- spaCy : spaCy est une bibliothèque NLP open-source rapide et efficace en Python. Elle propose des fonctions pour la tokenisation, l'étiquetage grammatical, l'analyse syntaxique, la reconnaissance d'entités nommées et la création de modèles de traitement de texte.
+
+	- gensim : gensim est une bibliothèque NLP pour la modélisation de texte et la recherche de similarités de documents. Elle est utilisée pour la création de modèles de topic modeling, de Word2Vec, de Doc2Vec et de FastText.
+
+	- TextBlob : TextBlob est une bibliothèque NLP facile à utiliser en Python. Elle propose des fonctions pour la correction d'orthographe, la détection de phrases, l'étiquetage grammatical, l'analyse de sentiment et la traduction de texte.
+
+	- Transformers : Transformers est une bibliothèque NLP pour la création de modèles de traitement de langage naturel basés sur les architectures transformer. Elle est utilisée pour la création de modèles pour la génération de texte, la traduction de texte, la compréhension de texte, l'extraction d'entités nommées et bien plus encore.
+	
+
+
+Comment préparer les données ?
+
+Définitions :
+	- Lemmatisation : La lemmatisation est un processus de transformation des mots d'une phrase en leur forme de base, appelée "lemme". Le lemme est la forme canonique d'un mot, c'est-à-dire la forme sous laquelle il est répertorié dans un dictionnaire. Par exemple, la lemmatisation du verbe "mangé" donnerait "manger", car "manger" est le lemme correspondant. La lemmatisation est utilisée dans le traitement automatique du langage naturel pour normaliser le texte et améliorer la précision de l'analyse linguistique.
+	
+	- Stemming : Le stemming est un processus de réduction des mots à leur racine, en supprimant les suffixes et les préfixes qui leur sont attachés. Contrairement à la lemmatisation qui tient compte du contexte grammatical, le stemming utilise des règles de coupure de mots pour obtenir une racine commune à tous les mots d'une même famille lexicale. Par exemple, le stemming du verbe "mangerait" donnerait "mange" en supprimant le suffixe "-rait". Le stemming est également utilisé dans le traitement automatique du langage naturel pour normaliser le texte et réduire la dimensionnalité des données, mais il peut parfois produire des résultats imprécis ou incohérents en raison de la perte d'informations liées aux morphèmes.
+	
+	- Stop words Les "stop words" sont des mots très courants dans une langue donnée qui sont souvent omis lors de l'analyse textuelle car ils sont considérés comme n'apportant pas de sens ou de valeur informative significative. Ces mots sont souvent des prépositions, des conjonctions, des adverbes et des pronoms, tels que "et", "de", "le", "la", "qui", "que", "mais", "à", "avec", etc. Les stop words sont généralement exclus de l'analyse textuelle pour réduire le bruit et la complexité des données, et pour se concentrer sur les mots clés et les concepts importants qui peuvent aider à comprendre le sens du texte.
+	
+
+Comment transformer les données?
+
+Transformation:
+	- Expression régulières : En traitement automatique du langage naturel (NLP), une expression régulière est une séquence de caractères qui définit un modèle de recherche de motifs dans un texte. Elle permet d'identifier des motifs tels que des mots, des phrases ou des séquences de caractères spécifiques dans un texte.
+	Par exemple, si vous cherchez toutes les occurrences du mot "chat" dans un texte, vous pouvez utiliser l'expression régulière suivante : /chat/. Cette expression régulière indique au programme de rechercher toutes les occurrences du mot "chat" dans le texte, en prenant en compte les éventuels accents ou majuscules.
+	Les expressions régulières sont très utiles en NLP car elles permettent de traiter et d'analyser des textes de manière automatisée, en identifiant des motifs précis.
+	
+	- Bag of Words : Le Bag of Words (BoW) est une technique de représentation de texte en traitement automatique du langage naturel (NLP). Elle consiste à représenter un texte par un ensemble de mots qui le composent, sans prendre en compte l'ordre des mots ni leur contexte.
+	Concrètement, pour construire un Bag of Words, on prend l'ensemble des mots du texte et on les regroupe en un vecteur. Chaque dimension du vecteur correspond à un mot du texte, et la valeur de chaque dimension indique le nombre d'occurrences de ce mot dans le texte.
+	Le Bag of Words est utile pour comparer des textes entre eux ou pour les utiliser comme entrée pour un modèle de machine learning en NLP. Toutefois, cette méthode ne tient pas compte du contexte ou de la sémantique des mots, ce qui peut être limitant dans certaines tâches de NLP, telles que la compréhension de la signification d'un texte.
+	
+	- TF-IDF : TF-IDF est une méthode de pondération de mots couramment utilisée en traitement automatique du langage naturel pour évaluer l'importance d'un terme dans un document par rapport à un ensemble de documents. TF-IDF combine deux mesures :
+		- TF (term frequency) : la fréquence du terme dans le document,
+		- IDF (inverse document frequency) : une mesure inverse de la fréquence du terme dans l'ensemble de documents.
+	La pondération TF-IDF attribue une importance plus élevée aux termes qui apparaissent fréquemment dans le document, mais qui sont rares dans l'ensemble des documents. En d'autres termes, plus un terme est fréquent dans un document et rare dans l'ensemble des documents, plus son score TF-IDF sera élevé. Cette méthode est souvent utilisée pour l'analyse de texte, la recherche d'informations et la classification de documents.
+	
+	- Word Embedding : Le Word Embedding est une technique de traitement de langage naturel qui permet de représenter les mots sous forme de vecteurs mathématiques. Les Word Embeddings sont créés en analysant de grands corpus de textes et en apprenant la signification des mots à partir de leur contexte d'utilisation.
+	Les vecteurs Word Embeddings permettent de représenter la signification des mots sous une forme numérique qui peut être facilement utilisée par des algorithmes d'apprentissage automatique. Les distances entre les vecteurs Word Embeddings reflètent également la similarité sémantique entre les mots. Par exemple, les vecteurs pour "chat" et "chien" sont plus proches l'un de l'autre que les vecteurs pour "chat" et "voiture".
+	Les Word Embeddings sont utilisés dans de nombreuses applications de traitement de langage naturel, telles que la classification de textes, la traduction automatique, la reconnaissance de la parole et la génération de texte.
+	
+	- Transformers : Les Transformers sont une architecture de réseaux de neurones artificiels très populaire en traitement automatique du langage naturel (NLP). Ils ont été introduits en 2017 par Vaswani et al. dans leur article "Attention Is All You Need".
+	La particularité des Transformers est leur capacité à traiter les séquences de manière parallèle, contrairement aux modèles de réseaux de neurones récurrents qui ont besoin d'une séquence à la fois. Les Transformers utilisent une technique appelée "attention" pour donner des poids différents aux différentes parties de la séquence d'entrée lors de la propagation avant.
+	Les Transformers ont révolutionné le traitement de langage naturel en améliorant considérablement les performances des modèles de langage, de traduction automatique, de résumé de texte, de génération de texte, etc. Ils ont été largement adoptés dans l'industrie et la recherche en NLP en raison de leur efficacité et de leur polyvalence.
+	
